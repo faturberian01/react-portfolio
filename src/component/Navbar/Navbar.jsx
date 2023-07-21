@@ -4,7 +4,8 @@ import React from "react";
 import { Link } from 'react-scroll';
 
 import FontMedium from "../../element/FontMedium/FontMedium";
-import FontHeavy from "../../element/FontHeavy/FontHeavy";
+
+import logo2 from "../../assets/logo2.png"
 
 
 
@@ -32,9 +33,9 @@ const Navbar = () => {
                         className="d-flex align-items-center  w-100">
                             <ul className="navbar-nav flex-grow-1" >
                                 <a className="navbar-brand d-flex align-items-center " href="#" >
-                                    {/* <img src="" alt="Logo"/> */}
+                                    <img src={logo2} alt="Logo" />
                                             {/* <FontBold $20light className='mb-1 ms-3'>SkuyPay</FontBold> */}
-                                            <FontHeavy $20 className="text-dark">Fatur Brian</FontHeavy>
+                                            {/* <FontHeavy $20 className="text-dark">Fatur Brian</FontHeavy> */}
                                 </a>
                             </ul>
 
