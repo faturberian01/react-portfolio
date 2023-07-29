@@ -75,12 +75,12 @@ const Education = () => {
                         <div className="col-5 flex-column d-flex align-items-start">
                             <FontMedium $20>Febuari 2023 - June 2023</FontMedium>
                             <FontThine $1625>Pada program ini, saya mengikuti kursus Front-End Engineering</FontThine>
-                            <FontThine $1625>dengan fokus pada pengembangan menggunakan ReactJS. Saya</FontThine>
-                            <FontThine $1625>mempelajari konsep dasar React, pengelolaan state, pembuatan</FontThine>
-                            <FontThine $1625>state, pembuatan komponen, routing, dan integrasi API. Selama</FontThine>
-                            <FontThine $1625>kursus ini, saya juga terlibat dalam berbagai proyek praktis untuk </FontThine>
-                            <FontThine $1625>memperkuat pemahaman dan keterampilan saya dalam </FontThine>
-                            <FontThine $1625>pengembangan Front-End dengan ReactJS.</FontThine>
+                            <FontThine $1625>dengan fokus pada pengembangan menggunakan ReactJS.</FontThine>
+                            <FontThine $1625>Saya mempelajari konsep dasar React, pengelolaan state, </FontThine>
+                            <FontThine $1625>pembuatan state, pembuatan komponen, routing, dan integrasi</FontThine>
+                            <FontThine $1625>API. Selama kursus ini, saya juga terlibat dalam berbagai proyek </FontThine>
+                            <FontThine $1625>praktis untuk memperkuat pemahaman dan keterampilan saya</FontThine>
+                            <FontThine $1625>dalam pengembangan Front-End dengan ReactJS.</FontThine>
                         </div>
                         
                     </div>
